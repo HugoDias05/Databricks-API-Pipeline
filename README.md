@@ -69,8 +69,8 @@ Two complimentary visualizations were created to provide comprehensive analytica
 
 | Visualization | Type | Purpose | Screenshot |
 | :--- | :--- | :--- | :--- |
-| **Release Trend** | Stacked Bar Chart | Shows the **total volume** of releases over time, highlighting the contribution breakdown (Movie vs. Series) in each year. |  |
-| **Media Type Comparison** | Line Chart | Shows the **individual trajectory** of Movies, Series, and Games over time, allowing for easy identification of independent peaks and valleys in each category. |  |
+| **Release Trend** | Stacked Bar Chart | Shows the **total volume** of releases over time, highlighting the contribution breakdown (Movie vs. Series vs. Games) in each year. | ![Image](https://github.com/user-attachments/assets/d2ef6edd-5ba4-4c25-b8be-74c89c534654) |
+| **Media Type Comparison** | Line Chart | Shows the **individual trajectory** of Movies, Series, and Games over time, allowing for easy identification of independent peaks and valleys in each category. | ![Image](https://github.com/user-attachments/assets/00d0558e-8e1a-4c09-b180-fcad5458bf14) |
 
 ---
 
